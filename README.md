@@ -33,7 +33,7 @@ Welcome to the Sentiment Analysis project! This project focuses on analyzing sen
 ## Usage
 To use this sentiment analysis pipeline:
 1. Clone the repository: `git clone https://github.com/Avyukth1C/financial-text-sentiment.git`
-2.Unzip the files.
+2. Unzip the files.
 3. Import the .ipynb into Google Colab.
 4. Import the dataset into your Google drive.[Change the file path in the code respectively]
 5. Run the Jupyter notebook provided in the repository to Train the machine learning models using the prepared dataset.
